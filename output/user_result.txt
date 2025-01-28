@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-28 19:14:34,url
+2025-01-29 07:12:55,url
 📺央视频道,#genre#
 CCTV-1,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no$订阅源
@@ -1020,9 +1020,9 @@ CCTV-5+,http://122.9.151.210:6209/rtp/238.255.2.185:5999$组播源
 山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8$订阅源
 山东体育,http://139.129.231.228:3529/rtp/239.21.1.141:5002$组播源
 山东体育,http://139.129.231.228:50060/rtp/239.21.1.141:5002$组播源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源|1920x1080
 安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8$订阅源
 睛彩篮球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=HD-8000k-1080P-miguaoyun1$订阅源
 风云足球,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.229:80/PLTV/4/224/3221228668/1.m3u8?accountinfo=7Nbs4SAtmisdhfg9u9VfuRylKFo%2FsFe211XeT0tFiPe3sKM6ExysDo0g3A9CbIkx5b%2FFw3kQIXPRRrkOn3II%2B%2Fc0Ta4f4DIFOsGdGiU4JeF8fi9dPYnTHN8Os8jC4LZfFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%3D%3A20241026024257%2C-1%2C36.156.32.22%2C20241026024257%2CG_FENGSHANGZQ-CQ%2C1734208109853_10%3A13%3A6D%3AA1%3A26%3A38%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000019436166_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FG_FENGSHANGZQ-CQ%2FG_FENGSHANGZQ-CQ&icpid=88888888&from=5&popid=5&hms_devid=6449&prioritypopid=5$订阅源
@@ -1068,6 +1068,7 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源|1920x1080
 金鹰卡通,http://123.56.129.203:6709/rtp/225.1.8.163:9252$北京电信组播源
 金鹰卡通,http://139.129.231.228:3529/rtp/239.21.1.48:5002$组播源
 金鹰卡通,http://139.129.231.228:50060/rtp/239.21.1.48:5002$组播源
+睛彩少儿,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225903/main.m3u8$订阅源|IPv6
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$订阅源|IPv6
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8$订阅源|IPv6
 黑莓动画,http://[2409:8087:74d9:21::6]/270000001128/9900000096/index.m3u8$订阅源|IPv6
@@ -1209,7 +1210,6 @@ CHC高清电影,url
 爱动漫,url
 中录动漫,url
 宝宝动画,url
-睛彩少儿,url
 24H国漫热播,url
 海绵宝宝,url
 斗破苍穹玄幻剧,url
