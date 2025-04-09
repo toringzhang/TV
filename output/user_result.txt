@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-09 19:17:59,url
+2025-04-10 07:17:07,url
 📺央视频道,#genre#
 CCTV-1,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -822,7 +822,7 @@ CETV4,http://123.56.129.203:6709/rtp/225.1.8.195:4120$北京电信组播源
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$订阅源
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源|1920x1080
-凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8$订阅源
+凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8$订阅源|1920x1080
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源|1920x1080
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$订阅源|1920x1080
 凤凰中文,http://120.55.49.231:7718/rtp/233.50.200.191:5140$组播源
@@ -872,7 +872,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源|1920
 纬来体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6$订阅源|1920x1080
 纬来体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源
-纬来体育,http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8$订阅源|1920x1080
+纬来体育,http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8$订阅源
 纬来体育,http://api3.52tb.xyz/info?id=376&token=20221127jxwhhemby$订阅源
 纬来体育,http://api2.52tb.xyz/info?id=375&token=20230120rdbtgv$订阅源
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40$订阅源
@@ -928,7 +928,7 @@ NewTV动作电影,http://gslbserv.itv.cmvideo.cn/2000000003000000017/1.m3u8?chan
 黑莓电影,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=yu&mode=1&$订阅源
 黑莓电影,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=yu&mode=1&$订阅源
 黑莓电影,http://146.56.165.66:7788/TVOD/2000000003000000001/hnbblive/index.m3u8$订阅源
-纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$订阅源
+纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$订阅源|1920x1080
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058$订阅源
 经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$订阅源
 IPTV经典电影,http://123.56.129.203:6709/rtp/225.1.8.203:9024$北京电信组播源
@@ -986,7 +986,7 @@ CCTV-5+,http://222.219.183.103:8089/hls/19/index.m3u8$订阅源
 纬来体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6$订阅源|1920x1080
 纬来体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源
-纬来体育,http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8$订阅源|1920x1080
+纬来体育,http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8$订阅源
 纬来体育,http://api3.52tb.xyz/info?id=376&token=20221127jxwhhemby$订阅源
 纬来体育,http://api2.52tb.xyz/info?id=375&token=20230120rdbtgv$订阅源
 五星体育,http://live.xmcdn.com/live/57/64.m3u8$订阅源
@@ -1069,6 +1069,7 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源|1920x1080
 黑莓动画,http://api3.52tb.xyz/info?id=173&token=20221127jxwhhemby$订阅源
 黑莓动画,http://api2.52tb.xyz/info?id=173&token=20230218qkyjia$订阅源
 黑莓动画,http://146.56.165.66:7788/TVOD/2000000003000000002/hnbblive/index.m3u8$订阅源
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$订阅源|1920x1080
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
@@ -1086,6 +1087,7 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源|1920x1080
 火影忍者,http://live.iill.top/douyu.php?id=1997723$订阅源
 中华小当家,http://mtv.wuzhij.com/huya.php?id=24257300&cdn=txcdn$订阅源
 中华小当家,http://live.iill.top/huya.php?id=11342413$订阅源
+斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源
 猫和老鼠,http://live.iill.top/huya.php?id=11352879$订阅源
 🎮游戏频道,#genre#
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy$订阅源
@@ -1112,6 +1114,8 @@ CCTV-15,http://123.56.129.203:7637/rtp/225.1.8.74:8136$组播源
 笑傲江湖,http://live.iill.top/huya.php?id=23865142$订阅源
 天龙八部,http://live.iill.top/huya.php?id=23903123$订阅源
 鹿鼎记,http://huanqiuzhibo.cn/manifest/huya.php?id=23865080$订阅源
+仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903$订阅源
+新白娘子传奇,https://lunbo.freetv.top/yy/1354930969$订阅源
 封神榜,http://huanqiuzhibo.cn/manifest/huya.php?id=23749096$订阅源
 射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164$订阅源
 🈳无结果频道,#genre#
@@ -1201,9 +1205,7 @@ CHC高清电影,url
 爱动漫,url
 中录动漫,url
 炫动卡通,url
-24H国漫热播,url
 海绵宝宝,url
-斗破苍穹玄幻剧,url
 经典动漫,url
 蜡笔小新,url
 漫画解说,url
@@ -1215,11 +1217,9 @@ CHC高清电影,url
 潮流音乐,url
 天津音乐,url
 音乐广播,url
-仙剑奇侠传,url
 西游记,url
 三国演义,url
 水浒传,url
-新白娘子传奇,url
 济公游记,url
 闯关东,url
 上海滩,url
