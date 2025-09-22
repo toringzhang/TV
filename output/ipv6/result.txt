@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-15 12:19:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-09-22 12:19:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -636,3 +636,4 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-2.m3u8
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://mursor.ottiptv.cc/yy/1382735568
+漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
