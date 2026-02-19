@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-19 18:39:53,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-02-20 06:27:38,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -14,3 +14,4 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
 
 🪁动画频道,#genre#
+漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
