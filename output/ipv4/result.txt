@@ -1,13 +1,14 @@
 🕘️更新时间,#genre#
-2026-03-05 06:26:56,https://iptv.catvod.com/live.php?id=CCTV5&line=15
+2026-03-05 18:35:49,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6
 
 📺央视频道,#genre#
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=11
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=14
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1373ffcb6e7c62fb45a5d151c96105d9
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=3
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=4
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
@@ -38,6 +39,7 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 
 🪁动画频道,#genre#
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
@@ -47,11 +49,11 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 卡酷动画,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 新动漫,https://iptv.catvod.com/live.php?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=1
 新动漫,https://iptv.catvod.com/live.php?id=%E6%96%B0%E5%8A%A8%E6%BC%AB
+金鹰卡通,http://221.13.235.233:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
@@ -65,6 +67,5 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 河北少儿科教,http://php.fjl626.cn/hebei.php?id=sekj
-火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 经典动漫,https://lunbo.freetv.top/yy/24180320
