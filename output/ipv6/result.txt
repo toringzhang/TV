@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2026-03-06 06:26:52,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-03-06 18:30:37,http://pull-hls-f11.douyincdn.com/media/stream-695417071207187116.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773208553&major_anchor_level=common&sign=5e5791d5483cd383acea72b3a02bfd3c&t_id=037-202603041355521C4B9417BEA02331B2FB-H5hoZx
 
 📺央视频道,#genre#
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695417071207187116.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773208553&major_anchor_level=common&sign=5e5791d5483cd383acea72b3a02bfd3c&t_id=037-202603041355521C4B9417BEA02331B2FB-H5hoZx
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 💰央视付费频道,#genre#
@@ -13,7 +13,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
 
 🪁动画频道,#genre#
-火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
-海绵宝宝,https://live.metshop.top/douyu/3949681
-猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
+七龙珠,https://live.ottiptv.cc/huya/11601966
+七龙珠,https://live.metshop.top/huya/11601966
+中华小当家,https://live.ottiptv.cc/huya/11342413
 漫画解说,https://www.goodiptv.club/douyu/5907076
