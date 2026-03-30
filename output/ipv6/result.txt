@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-30 19:00:50,http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775212079&major_anchor_level=common&sign=df934e7ccd289742a9dcd9e796a21e73&t_id=037-20260327182759E3D672881FBE8BC84271-smZh1q
+2026-03-31 06:32:14,http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775212079&major_anchor_level=common&sign=df934e7ccd289742a9dcd9e796a21e73&t_id=037-20260327182759E3D672881FBE8BC84271-smZh1q
 
 📺央视频道,#genre#
 CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775212079&major_anchor_level=common&sign=df934e7ccd289742a9dcd9e796a21e73&t_id=037-20260327182759E3D672881FBE8BC84271-smZh1q
@@ -14,6 +14,5 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 📡卫视频道,#genre#
 
 🪁动画频道,#genre#
-经典动漫,https://www.goodiptv.club/yy/22777075
-蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
-漫画解说,https://www.goodiptv.club/douyu/5907076
+中华小当家,https://live.ottiptv.cc/huya/11342413
+中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
