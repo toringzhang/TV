@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-04-29 06:53:22,https://xykt-fix.github.io/Y77.m3u8
+2026-04-29 19:28:16,https://xykt-fix.github.io/Y77.m3u8
 
 📺央视频道,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695714359383425708.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777628651&major_anchor_level=common&neq=1&sign=8b16cc180ce95c845219f8cccdcb9b5b&t_id=037-202604241744105DB92CAAEC4993C5B1D5-5dxGqL
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 💰央视付费频道,#genre#
@@ -15,13 +15,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 🪁动画频道,#genre#
 七龙珠,https://live.metshop.top/huya/11601966
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
-火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
-海绵宝宝,https://live.metshop.top/douyu/3949681
-中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,https://live.metshop.top/huya/11352879
-猫和老鼠,https://live.ottiptv.cc/huya/11352879
-猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
-漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
