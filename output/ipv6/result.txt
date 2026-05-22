@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-05-22 20:19:13,https://xykt-fix.github.io/play/a02b/index.m3u8
+2026-05-23 06:55:15,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
-CCTV-11,https://xykt-fix.github.io/play/a02b/index.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
@@ -16,6 +15,7 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
+中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
-经典动漫,https://www.goodiptv.club/yy/22777075
+中华小当家,https://live.ottiptv.cc/huya/11342413
 漫画解说,https://www.goodiptv.club/douyu/5907076
