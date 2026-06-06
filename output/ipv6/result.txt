@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-06 19:23:03,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-06-07 07:00:51,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -9,7 +9,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 📡卫视频道,#genre#
-海南卫视,http://a.xiongnas.top:8888/rtp/239.3.1.45:8304
 
 🪁动画频道,#genre#
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
@@ -17,5 +16,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
-经典动漫,https://www.goodiptv.club/yy/22777075
+猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
 漫画解说,https://www.goodiptv.club/douyu/5907076
