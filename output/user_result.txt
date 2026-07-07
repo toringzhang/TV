@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-07 20:31:45,http://198.204.240.250:82/live/cctv1.m3u8
+2026-07-08 06:59:49,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
@@ -11,14 +11,14 @@ CCTV-13,http://pull-hls-f26.douyinliving.com/media/stream-696107587393815378.m3u
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=f499c99bfbd0d5b43b1d20ead24f5058&wsTime=6a452729&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260701224144E16D5A7566C0BF124425-aeSDux
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
+CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
-CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 
 💰央视付费频道,#genre#
-文化精品,http://192.151.150.154/live/ysjp.m3u8
 文化精品,http://107.150.60.122/live/ysjp.m3u8
+文化精品,http://192.151.150.154/live/ysjp.m3u8
 央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
@@ -32,39 +32,17 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
 
 📡卫视频道,#genre#
-广东卫视,http://101.66.194.151:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
-北京卫视,http://101.66.194.186:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://101.66.199.29:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://101.66.195.209:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
-湖北卫视,http://101.66.194.186:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://101.66.194.151:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://101.66.194.186:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://101.66.199.29:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://101.66.194.186:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://101.66.199.29:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://101.66.194.186:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://101.66.195.209:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://101.66.194.186:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://101.66.199.29:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-广西卫视,http://101.66.195.209:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://101.66.195.209:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://101.66.199.29:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-河南卫视,http://101.66.195.209:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://115.48.161.55:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
-江西卫视,http://101.66.199.29:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
-辽宁卫视,http://101.66.194.151:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://101.66.199.29:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://101.66.195.209:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山东卫视,http://101.66.199.29:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://192.151.150.154/live/sxwshd.m3u8
 
 🪁动画频道,#genre#
@@ -79,6 +57,7 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
+新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil
@@ -98,8 +77,7 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 炫动卡通,rtsp://115.153.230.145/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
 河北少儿科教,http://php.fjl626.cn/hebei.php?id=sekj
-七龙珠,https://live.metshop.top/huya/11601966
-七龙珠,https://live.ottiptv.cc/huya/11601966
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
