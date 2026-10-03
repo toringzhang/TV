@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-03 08:56:51,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-10-03 22:35:37,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -18,4 +18,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 中华小当家,https://live.metshop.top/huya/11342413
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
+经典动漫,http://luobo.bkpcp.top/yy/24180320
+经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
